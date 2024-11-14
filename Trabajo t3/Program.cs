@@ -55,7 +55,9 @@ namespace CITAMEDICAMENU
                     Console.WriteLine("SE HA ALCANDO EL LIMITE MAXIMO DE CITAS");
                     continuar = false;
                 }
-                Console.WriteLine();    
+                Console.WriteLine();
+                Console.WriteLine("Peru");
+
             }
         }
     }
