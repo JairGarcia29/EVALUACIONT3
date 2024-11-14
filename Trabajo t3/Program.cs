@@ -57,6 +57,7 @@ namespace CITAMEDICAMENU
                 }
                 Console.WriteLine();
                 Console.WriteLine("Peru");
+                Console.WriteLine("CitaU");
 
             }
         }
